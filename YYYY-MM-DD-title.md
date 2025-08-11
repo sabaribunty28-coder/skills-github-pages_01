@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Github Website"
 date: 2025-08-11
 ---
 
